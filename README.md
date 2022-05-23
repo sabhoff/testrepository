@@ -1,2 +1,2 @@
-# testrepository
+# manualTesting
 test repository
